@@ -1,5 +1,17 @@
 # Visualize Educational Development Statistics
 
+
+## Organization data
+
+`organizations/municipality_numbers.json` contains municipality numbers for educational organizations.
+ 
+The data is sourced from Opetushallitus organisaatio-service:
+
+    https://virkailija.opintopolku.fi/organisaatio-service/rest/organisaatio/v4/hierarkia/hae?aktiiviset=true&suunnitellut=true&lakkautetut=true&skipParents=false
+    
+And parsed with the `organizations/municipality_numbers.rb` script.
+
+
 ## Tools
 
 ### Data dump tool
