@@ -31,6 +31,12 @@ dashboard concept.
 [1]: https://valtionavustukset.oph.fi/api/junction-hackathon/dump
 [2]: https://github.com/tomimick/mapcolorizer
 
+## Data visualization notebook
+
+`tools/data_visualization.ipynb` is a notebook that contains visualizations about development projects found in the Opetushallitus dataset based on different filters. 
+
+https://github.com/velskola/oph-hankkeet/blob/main/tools/data_visualization.ipynb
+
 ## Organization data
 
 `organizations/municipality_numbers.json` contains municipality numbers for educational organizations.
@@ -40,3 +46,7 @@ The data is sourced from Opetushallitus organisaatio-service:
     https://virkailija.opintopolku.fi/organisaatio-service/rest/organisaatio/v4/hierarkia/hae?aktiiviset=true&suunnitellut=true&lakkautetut=true&skipParents=false
     
 And parsed with the `organizations/municipality_numbers.rb` script.
+
+
+
+
