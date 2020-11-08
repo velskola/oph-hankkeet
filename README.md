@@ -1,4 +1,4 @@
-# Visualize Educational Development Statistics
+# Project Reporting Simplified
 
 This repository forms a part of a Junction 2020 submission.
 
